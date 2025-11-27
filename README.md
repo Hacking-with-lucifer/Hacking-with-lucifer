@@ -8,6 +8,12 @@
 - 👯 **𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷:** 𝓯𝓪𝓬𝓲𝓪𝓵 𝓻𝓮𝓬𝓸𝓰𝓷𝓲𝓼𝓲𝓷𝓰 𝓼𝔂𝓼𝓽𝓮𝓶
 - 📫 **𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮:** 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵𝓵𝓾𝓬𝓲𝓯𝓮𝓻𝓶𝓸𝓻𝓷𝓲𝓷𝓰𝓼𝓽𝓪𝓻𝓻@𝓰𝓶𝓪𝓲𝓵.𝓬𝓸𝓶
 
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harshpatil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lucifer_was_innocent__) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/patilharsh5643) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officiallucifermorningstarr@gmail.com) 
@@ -18,12 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hacking-with-lucifer&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hacking-with-lucifer&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacking-with-lucifer&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hacking-with-lucifer&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
